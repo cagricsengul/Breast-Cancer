@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 12 21:06:37 2018
-
-@author: user
+deneme calismalari
 """
 
 # %% libraries
