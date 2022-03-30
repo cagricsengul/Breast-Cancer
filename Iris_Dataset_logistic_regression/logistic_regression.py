@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-deneme calismalari
+
+deneme (calisma kısmı silindi)
+ekstra açıklammalar yapılabilir
+
 """
 
 # %% libraries
